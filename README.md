@@ -52,6 +52,8 @@ Lab5b:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-1
 
 Lab5c:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20224918.png
 
+Lab5d:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20224932.png
+
 
 
 

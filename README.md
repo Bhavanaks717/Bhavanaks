@@ -37,6 +37,6 @@ Q6:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%2
 Q7:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20205320.png
 Q8:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20205343.png
 Q9:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20205416.png
-Q10:
+Q10:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20205442.png
 
 

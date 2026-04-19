@@ -13,3 +13,5 @@ p3 o/p: https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04
 p4 o/p: https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20191149.png
 
 p5 o/p:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20191425.png
+
+p6 o/p: https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20192154.png

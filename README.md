@@ -25,3 +25,5 @@ p9 o/p: https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04
 p10 o/p: https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20201055.png
 PerformanceTest:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20201428.png
 StringOperationsDemo:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20201728.png
+
+StringHandlingDemo:https://github.com/Bhavanaks717/Bhavanaks/blob/main/Screenshot%202026-04-19%20202636.png

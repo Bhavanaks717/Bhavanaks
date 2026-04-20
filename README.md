@@ -8,6 +8,8 @@ lab6b o/p:https://github.com/Bhavanaks717/Bhavanaks/blob/lab6/Screenshot%202026-
 
 lab6c o/p:https://github.com/Bhavanaks717/Bhavanaks/blob/lab6/Screenshot%202026-04-20%20180934.png
 
+lab6c o/p:https://github.com/Bhavanaks717/Bhavanaks/blob/lab6/Screenshot%202026-04-20%20180948.png
+
 
 
 
